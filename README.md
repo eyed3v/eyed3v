@@ -1,68 +1,72 @@
-# Hi, I'm Marcel 👋
-
-Aspiring software developer • abstract-logical thinker • tech‑affine learner  
-Seeking an internship to grow foundational skills in a collaborative, open‑minded team.
-
-- 🔭 Currently building small projects in Python, TypeScript and Rust to strengthen fundamentals
-- 🌱 Learning systems design, secure-by-default development, and test-driven workflows
-- 💬 I love discussing algorithms, clean APIs, and pragmatic engineering decisions
-- 📫 Reach me: elokrypt [at] example.com
-- ⚡ Fun fact: I enjoy translating abstract problems into elegant code and visualizations
-
----
-
-## What I bring
-- Strong abstract and logical thinking — break down problems, spot patterns, and design clear solutions
-- Quick learner — comfortable picking up new languages and tools to deliver working solutions
-- Team-oriented — eager to contribute, accept feedback, and help teammates grow
-- Passion for open-source and transparent documentation
+#### Über mich
+Als autodidaktischer Programmierer verfüge ich über zehn Jahre Erfahrung in Python,
+TypeScript, JavaScript und Sprachen der C-Familie, ergänzt durch meine praktische 
+Laufbahn als Elektroniker.
+Meine Fachkenntnisse reichen von intelligenten
+Gebäudesystemen über objektorientiertes und prozessorientiertes Software Design
+mit hexagonaler Architektur, bei denen ich einen pragmatischen Systemansatz 
+für die KI-Entwicklung anwende.
+Derzeit erweitere ich meine Software-Kenntnisse durch Masterschool und 
+konzentriere mich dabei auf skalierbares Design, Git-Workflows
+(wie z.B. Trunk Based Development und Conventional Commits) und RESTful-APIs.
 
 ---
 
-## Tech stack & tools
-- Languages: Python · JavaScript · TypeScript · Rust (learning) · C/C++ · Assembly · Scripting Languages 
-- Web: Node.js · Express · FastAPI · React (basics)
-- Data & infra: PostgreSQL · SQLite · Docker · Git · Linux · All kind of Build Systems
-- Testing: pytest · Jest · GitHub Actions (CI)
-- Other: REST · WebSockets · basic cryptography concepts · data structures & algorithms
+### Technische Fertigkeiten
+#### Programmiersprachen
+> `Python`, `TypeScript`, `Rust`, `C++`, `JavaScript`, `C`
+#### Datenbanken & ORMs
+> `SQLite`, `PostgreSQL`, `SQLAlchemy`, `NoSQL (MongoDB/RethinkDB)`
+#### Software Design
+> `Object-Oriented Programming (OOP)`, `API-first architecture`, `RESTful`, `GraphQL`, `Hexagonal-Architecture`, `LangChain`
+#### Versionskontrolle
+> `Git`, `GitHub`, `GitLab`, `Markdown`, `MkDocs`, `Swagger/OpenAPI`
+#### Tests & Qualitätsprüfung
+> `Unit testing`, `PyTest`, `Playwright`, `Static code analysis and linters`, `Jest`
+#### Sicherheit
+> `Network Hardening`, `Containerization`, `Zero-trust principles`, `JWT`
 
 ---
 
-## Highlight projects (pin these repos)
-- [showcase](https://github.com/elokrypt/citizen-assistant-showcase) — MasterSchool Generative AI ShowCase Project (Python + Web)
-- [colors](https://github.com/elokrypt/vscode-theme-darkpixel) — My personal and favorite color theme for VSCode (NodeJS + Electron API)
-- [structured output](https://github.com/elokrypt/meson.format) — A first-try code formatting tool for "meson.build"-files ! (C++)
-- [binary manipulation](https://github.com/elokrypt/logo.bin-builder) - Who does not want to change the stock boot-logo of an old Samsung Galaxy ? (C/C++)
+### Soft Skills
+#### Problemlösend
+> `analytisch`, `kreativ`, `pragmatisch`, `lösungsorientiert`, `hartnäckig`
+#### Verantwortungsbewusst
+> `verlässlich`, `eigeninitiativ`, `rechenschaftsfähig`, `qualitätsbewusst`, `verbindlich`
+#### Teamwork
+> `kooperativ`, `respektvoll`, `unterstützend`, `kompromissfähig`, `vertraulich`
+#### Kommunikation
+> `klar`, `empathisch`, `zuhörend`, `konstruktiv`, `verständlich`
+#### Ganzheitliche Denkweise
+> `systemisch`, `weitblickend`, `interdisziplinär`, `kontextuell`, `nachhaltig`
 
 ---
 
-## How I structure projects
-- Clear README with TL;DR, how to run, and learning goals
-- Minimal, well-scoped MVPs first — then iterate
-- Tests and CI for core features
-- Issues tagged: good-first-issue, help-wanted, enhancement
+### Projekte
+#### Citizen Assistant - Soziales Engagement
+> FullStack Web Anwendung
+
+[Zum Projekt](https://github.com/eyed3v/citizen-assistant-showcase)
+Webanwendung zur Erstellung von Sozialhilfedokumenten in Deutschland.
+Verfügt über ein umfassendes zweisprachiges Übersetzungssystem mit nativen
+deutschen und ukrainischen Benutzeroberflächen.
+
+Implementierung via PythonFlask, mithilfe von SQLAlchemy und ORM Modellen,
+sowie OpenAI, für die dynamische Dokumenterstellung von DOCX/PDF Dateien.
+
+- RESTful API für thread-safe CRUD Datenbank-Operationen.
+- Benutzer und Administrations - Interface Verwaltung.
+- CSRF-Verifizierung, TTL-Caching, DSVGO-Cookies.
+- GPT-5-mini - Model erstellt juristisch korrekte Anträge.
+
+> `Python`, `Flask`, `CRUD`, `SQLite`, `ORM`, `REST-API`, `LLM`, `OpenAI`
 
 ---
 
-## Roadmap & goals
-- Short term: complete 3 internship-ready projects, write tests, add CI
-- Medium term: contribute to an open-source library and present learnings in README posts
-- Long term: work on scalable services and developer tooling with an empathetic team
+### Kontakt
+> Mail: [eyed3v@keemail.me](mailto:eyed3v@keemail.me)
+> Tel.: +491632667423
+
+`feel free to contact me at any given time... !`
 
 ---
-
-## How you can help
-- Open issues labeled "good-first-issue" are welcomed
-- Invite me to pair-programming or review sessions — I learn fast with feedback
-- If you’re hiring interns: I’m available for internships and eager to learn from professionals
-
----
-
-## Contact
-- Email: elokrypt [at] tuta.io
-- Phone: +49 163 266 74 23
-... usually available 24/7 !
-
----
-
-If you're curious about a particular project or want to challenge me with a small task, I’m happy to collaborate.
